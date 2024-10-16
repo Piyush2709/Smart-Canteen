@@ -82,9 +82,7 @@ Before setting up the project, make sure you have the following installed:
 - **JAR File Errors**: Ensure that the correct version of **mysqlconnector.jar** is added to your project libraries.
 - **Server Issues**: Make sure **Apache Tomcat** or the chosen servlet container is correctly configured.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Authors
 
